@@ -1,1 +1,1 @@
-# alg
+# Algorithms Lab 1
